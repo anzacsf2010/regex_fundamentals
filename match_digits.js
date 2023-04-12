@@ -10,7 +10,7 @@ const alt_digits = /[0-9]/g;
 const odd_digits = /[13579]/g;
 const even_digits = /[02468]/g;
 
-const vowels = /[aeiou]/g
+const vowels = /[AEIOUaeiou]/g
 
 console.log('Digits: ' + strText.match(digits));
 console.log('Digits (Alternative): ' + strText.match(alt_digits));
