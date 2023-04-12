@@ -7,5 +7,10 @@ const regexLiteral = /to/;
 const result1 = regexLiteral.exec(strText);
 const result2 = strText.match(regexLiteral);
 console.log(regexLiteral);
+
+console.log('Using RegExp');
 console.log(result1);
+
+console.log('--------------');
+console.log('Using Literal');
 console.log(result2);
