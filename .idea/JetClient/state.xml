@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="description" value="GET" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="419024ee-d00a-4474-be10-06628daac77c" />
+              <option name="method" value="GET" />
+              <option name="name" value="Revista-PagoFacil" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="PedidoID" />
+                    <option name="value" value="40023281838949" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Fecha" />
+                    <option name="value" value="2023-04-17" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Hora" />
+                    <option name="value" value="13:23:56" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="MetodoPago" />
+                    <option name="value" value="10" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Estado" />
+                    <option name="value" value="2" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://www.revistapyc.com/es/cuenta/pagina_pago/urlcallback?PedidoID=40023281838949&amp;Fecha=2023-04-17&amp;Hora=13:23:56&amp;MetodoPago=10&amp;Estado=2" />
+            </requestState>
+            <requestState>
+              <option name="description" value="POST" />
+              <option name="id" value="3567226e-f46c-4aae-9183-3a5c7c0b46aa" />
+              <option name="method" value="POST" />
+              <option name="name" value="Revista-PagoFacil" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="PedidoID" />
+                    <option name="value" value="40023281838949" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Fecha" />
+                    <option name="value" value="2023-04-17" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Hora" />
+                    <option name="value" value="13:23:56" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="MetodoPago" />
+                    <option name="value" value="1" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="Estado" />
+                    <option name="value" value="2" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://www.revistapyc.com/es/cuenta/pagina_pago/urlcallback?PedidoID=40023281838949&amp;Fecha=2023-04-17&amp;Hora=13:23:56&amp;MetodoPago=1&amp;Estado=2" />
+            </requestState>
+            <requestState>
+              <option name="description" value="GET" />
+              <option name="id" value="5d714c84-2a25-420c-90cf-dd577d87c236" />
+              <option name="method" value="GET" />
+              <option name="name" value="httpbin.org/GET" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="test_val" />
+                    <option name="value" value="Hello World!" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://httpbin.org/get?test_val=Hello World!" />
+            </requestState>
+            <requestState>
+              <option name="description" value="POST" />
+              <option name="id" value="eabc2e6f-023e-4865-b550-c9ebf7a0238a" />
+              <option name="method" value="POST" />
+              <option name="name" value="httpbin.org/POST" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="test_val" />
+                    <option name="value" value="Hello World!" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://httpbin.org/post?test_val=Hello World!" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="a60160d8-68c0-42bd-8327-540637a7e917" />
+    <option name="runnerIdsHistory">
+      <map>
+        <entry key="8e161de7-36ec-4b9a-bb12-c079ebd5567c" value="419024ee-d00a-4474-be10-06628daac77c|" />
+      </map>
+    </option>
+  </component>
+</project>
