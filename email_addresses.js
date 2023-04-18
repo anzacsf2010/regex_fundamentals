@@ -12,6 +12,6 @@ const emails = 'afidge_0v@icloud.com ' +
 
 console.log('Given emails: ' + emails);
 
-const emailMatch = /[\w.]+@\w+\.\w{2,4}[a-z.]{0,3}/gm
+const emailMatch = /[\w.]+@\w+\.\w{2,4}(\.\w{2})?/gm
 
 console.log('Proper emails from that list are: ' + emails.match(emailMatch));
